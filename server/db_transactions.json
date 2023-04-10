@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "name": "Salary from facebook",
+      "amount": 1000000,
+      "type": "income",
+      "id": 1
+    },
+    {
+      "name": "Task-1",
+      "amount": 20000,
+      "type": "income",
+      "id": 2
+    },
+    {
+      "name": "Salary from google",
+      "amount": 500000,
+      "type": "income",
+      "id": 3
+    }
+  ]
+}
